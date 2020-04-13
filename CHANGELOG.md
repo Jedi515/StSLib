@@ -1,6 +1,25 @@
 ## Changelog ##
 #### dev ####
 
+#### v1.18.1 ####
+* Fix branching upgrade trying to display when transforming a card
+
+#### v1.18.0 ####
+* Fix InvisiblePower tooltips appearing on player
+* `OnApplyPowerRelic` (erasels)
+* `OnAnyPowerAppliedRelic` (erasels)
+* Branching upgrade cards (Reina & erasels)
+
+#### v1.17.2 ####
+* Updated ZHS translation by Rita-B
+
+#### v1.17.1 ####
+* Fix onCardDraw() being called twice on powers
+* Deprecate `OnCardDrawPower`
+
+#### v1.17.0 ####
+* Make TempHP work on monsters
+
 #### v1.16.0 ####
 * Powers
   * `OnPlayerDeathPower`
